@@ -1,4 +1,5 @@
 #GFG PROBLEM- Get minimum element from stack
+#Leetcode PROBLEM - 155 (Min Stack)
 #Using  2x-minelement to find the min element and also the previous minimum element before adding the present min element in the stack without using extra space 
 class stack:
     def __init__(self):
